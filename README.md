@@ -41,7 +41,7 @@ python3 log_activity_hrs.py --add 0.75 --file ~/activity/running.json
 ```
 ### View total hours for an activity
 ```bash
-python3 log_activity_hrs.py --view-total-time --file ~/activity/reading.json
+python3 log_activity_hrs.py --view-total-time ~/activity/reading.json
 ```
 ### Output:
 ```bash
